@@ -1,1 +1,9 @@
-300
+table, th, td {
+    border: 1px solid black;
+  }
+
+table td{
+    text-align:center;
+
+}
+
